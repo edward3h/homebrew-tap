@@ -5,7 +5,7 @@ class McPackInstaller < Formula
   desc "work in progress, don't try to use it uet"
   homepage "https://github.com/edward3h/mc-pack-installer"
   url "https://github.com/edward3h/mc-pack-installer/archive/v1.0.0-rc1.tar.gz"
-  sha256 "ea6faa02548231f83f42cfdcbefbd6a1b503490e45d0ad9ab5f5bf64df63d660"
+  sha256 "3b56cfa90ff85c6d4cc05dfe6e76959c936737fbf29def3a8e4e1dd598b41c38"
   license "GPL-3.0-only"
 
   depends_on :java => "1.8"
